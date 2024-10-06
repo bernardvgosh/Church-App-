@@ -32,6 +32,12 @@ Share the teachings of faith and love with dedicated sections for sermon recordi
 ### 📍 **Easy Church Location Access**
 Provide clear directions to your church, making it effortless for members and visitors to find their way.
 
+## 📸 **Application Preview**
+
+Here’s a sneak peek of what the Church App has to offer:
+
+
+
 ## 🛠️ **Our Simple Process**
 
 1. **Consultation**: We start with an in-depth consultation to understand your church's unique needs and vision.
