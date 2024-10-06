@@ -35,8 +35,15 @@ Provide clear directions to your church, making it effortless for members and vi
 ## 📸 **Application Preview**
 
 Here’s a sneak peek of what the Church App has to offer:
-<img src="/Images/Preview2.png">
-<img src="/Images/Preview2.png">
+<img src="/Images/Preview1.png">
+<img src="/Images/Preview3.png">
+<img src="/Images/Preview4.png">
+<img src="/Images/Preview5.png">
+<img src="/Images/Preview6.png">
+<img src="/Images/Preview7.png">
+<img src="/Images/Preview8.png">
+<img src="/Images/Preview9.png">
+<img src="/Images/Preview10.png">
 
 
 ## 🛠️ **Our Simple Process**
