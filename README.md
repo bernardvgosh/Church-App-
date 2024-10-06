@@ -1,6 +1,6 @@
 # 🌟 Church App: The Future of Church Management 🌟
 
-<img src="/Images/Main.png">
+<img src="/Images/Preview1.png">
 
 Welcome to **Church App**, where we empower ministries to connect with their congregations like never before. Our custom-designed church management app is here to elevate your church experience in the digital age, helping you reach more souls and spread messages of faith and love.
 
